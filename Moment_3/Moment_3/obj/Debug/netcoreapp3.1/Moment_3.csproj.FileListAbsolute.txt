@@ -1,0 +1,14 @@
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.exe
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.deps.json
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.runtimeconfig.json
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.runtimeconfig.dev.json
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.dll
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\bin\Debug\netcoreapp3.1\Moment_3.pdb
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.AssemblyInfo.cs
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.dll
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.pdb
+C:\Users\ÄGARE\source\repos\Moment_3\Moment_3\obj\Debug\netcoreapp3.1\Moment_3.genruntimeconfig.cache
